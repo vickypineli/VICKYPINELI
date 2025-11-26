@@ -1,8 +1,18 @@
 <div align="center">
-  <h1 align="left">Hi, I'm <a href="https://vickypineli.github.io/minilanding//" target="blank">Vicky</a><img width="40" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
-   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" align="left" height="300" width="600" />
-  </h1>
-<h3 align="left">A passionate web developer woman from Basque Country</h3> <h3 align="left"> <a aling="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?Code&pause=1000&color=9a15ad&left=true&Center=true&width=400&lines=+Woman+♀️+coder;+Full+stack+developer+junior+;+Apasionada+del+mundo+web;+Welcome+to+my+digital+universe+" alt="Typing SVG" /></a></h3>
+<h1 align="left">
+  Hi, I'm <a href="https://vickypineli.github.io/minilanding/" target="_blank">Vicky</a>
+  <img width="40" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
+</h1>
+
+<img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" align="left" width="450" />
+
+<h3 align="left">A passionate web developer woman from Basque Country</h3>
+
+<h3 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?pause=1000&color=9A15AD&width=400&lines=Woman+♀️+coder;Full+stack+junior+developer;Apasionada+del+mundo+web;Welcome+to+my+digital+universe" alt="Typing SVG" />
+  </a>
+</h3>
 
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=vickypineli&label=Profile%20views&color=9a15ad&style=flat" alt="vickypineli" /></p>
